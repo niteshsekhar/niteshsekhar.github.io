@@ -1,0 +1,46 @@
+name: Update Scholar Publications
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 14 * * 1"
+
+permissions:
+  contents: write
+
+jobs:
+  update-publications:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install scholarly
+
+      - name: Update auto publications
+        env:
+          SCHOLAR_USER_ID: HzNqQNoAAAAJ
+        run: |
+          python scripts/update_scholar_pubs.py
+
+      - name: Commit updates
+        run: |
+          if git diff --quiet -- data/publications.auto.json; then
+            echo "No publication updates found."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/publications.auto.json
+          git commit -m "chore(data): refresh Scholar publications"
+          git push

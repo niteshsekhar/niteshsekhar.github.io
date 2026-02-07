@@ -1,0 +1,82 @@
+[
+  {
+    "company": "Amazon",
+    "role": "Applied Scientist 3 - AGI (Amazon Nova)",
+    "period": "Mar 2025-Present",
+    "startYear": 2025,
+    "startMonth": 3,
+    "endYear": null,
+    "endMonth": null,
+    "location": "Seattle, WA",
+    "bullets": [
+      "Lead multimodal foundation model research for Amazon Nova, spanning VLM pretraining, embeddings, and representation learning.",
+      "Designed token-efficient training strategies that improved quality-cost tradeoffs for large-scale multimodal training runs.",
+      "Advanced high-resolution ViT modeling to strengthen fine-grained visual understanding in downstream multimodal tasks.",
+      "Translated research gains into production model improvements with measurable impact on reliability and model utility."
+    ]
+  },
+  {
+    "company": "Amazon",
+    "role": "Applied Scientist 2 - AGI (Amazon Nova)",
+    "period": "Aug 2023-Mar 2025",
+    "startYear": 2023,
+    "startMonth": 8,
+    "endYear": 2025,
+    "endMonth": 3,
+    "location": "Seattle, WA",
+    "bullets": [
+      "Built large-scale multimodal pretraining pipelines for vision-language models with distributed training best practices.",
+      "Improved cross-modal embedding quality for retrieval and generation workloads through better alignment objectives.",
+      "Drove experiments on data mixture and token allocation that increased training efficiency without sacrificing accuracy.",
+      "Partnered with engineering to productionize model upgrades across internal Nova research and deployment workflows."
+    ]
+  },
+  {
+    "company": "Amazon",
+    "role": "Applied Scientist 2 - Alexa AI",
+    "period": "May 2022-Aug 2023",
+    "startYear": 2022,
+    "startMonth": 5,
+    "endYear": 2023,
+    "endMonth": 8,
+    "location": "Seattle, WA",
+    "bullets": [
+      "Developed perception and interaction models for Alexa avatar experiences, improving visual responsiveness and interaction quality.",
+      "Built active speaker detection components to improve turn-taking and speaker grounding in multi-person scenarios.",
+      "Optimized inference and evaluation loops for low-latency, high-reliability real-time conversational experiences.",
+      "Delivered production-ready model improvements through cross-functional launches with product and engineering teams."
+    ]
+  },
+  {
+    "company": "Amazon",
+    "role": "Applied Scientist 2 - Physical Stores",
+    "period": "Jul 2021-Apr 2022",
+    "startYear": 2021,
+    "startMonth": 7,
+    "endYear": 2022,
+    "endMonth": 4,
+    "location": "Seattle, WA",
+    "bullets": [
+      "Built 3D verification and perception models for store-scale computer vision workflows.",
+      "Improved object and scene understanding robustness under real-world camera, lighting, and occlusion constraints.",
+      "Reduced model error rates through systematic data curation, representation improvements, and deployment-focused tuning.",
+      "Collaborated with applied teams to operationalize CV models in production store environments."
+    ]
+  },
+  {
+    "company": "Magic Leap",
+    "role": "Senior Computer Vision Engineer",
+    "period": "Jun 2019-Jul 2021",
+    "startYear": 2019,
+    "startMonth": 6,
+    "endYear": 2021,
+    "endMonth": 7,
+    "location": "Plantation, FL",
+    "bullets": [
+      "Developed AR perception systems for multi-user spatial understanding and 3D object reasoning.",
+      "Built scalable 3D detection and tracking components for shared AR cloud experiences.",
+      "Advanced representation learning and geometric modeling to improve stability across challenging scenes.",
+      "Shipped optimized CV modules integrated into performance-constrained AR product stacks."
+    ]
+  }
+]

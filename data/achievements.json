@@ -1,0 +1,19 @@
+{
+  "research": [
+    "Published work at ICLR and CVPR workshops on robustness, spurious-correlation mitigation, and scalable 3D AR perception.",
+    "Contributed to research spanning multimodal representation learning, VLM pretraining, and efficient 3D representations.",
+    "Delivered concise, deployment-aware research artifacts with clear transfer to product-facing systems."
+  ],
+  "shippedSystems": [
+    "Productionized multimodal model improvements for Amazon Nova foundation-model workflows.",
+    "Shipped Alexa avatar and active speaker detection capabilities for interactive AI experiences.",
+    "Delivered 3D perception and verification systems for AR and large-scale computer vision deployments."
+  ],
+  "technicalExpertise": [
+    "Vision-language models (VLMs) and multimodal foundation model pretraining",
+    "Representation learning and embedding alignment",
+    "Token-efficient training and high-resolution ViT modeling",
+    "3D vision, AR perception, and geometric scene understanding",
+    "Distributed training, large-scale evaluation, and production ML systems"
+  ]
+}

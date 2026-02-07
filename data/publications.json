@@ -1,0 +1,292 @@
+[
+  {
+    "title": "The amazon nova family of models: Technical report and model card",
+    "authors": ["AAG Intelligence"],
+    "venue": "AAG Intelligence",
+    "year": 2024,
+    "citationCount": 45,
+    "tags": ["multimodal-models", "technical-report", "amazon-nova"],
+    "summary": "Technical report and model card describing the Amazon Nova family of models.",
+    "links": {
+      "scholar": "",
+      "pdf": "",
+      "arxiv": "",
+      "code": ""
+    }
+  },
+  {
+    "title": "The Amazon Nova Family of Models: Technical Report and Model Card",
+    "authors": [
+      "A Langford",
+      "A Shah",
+      "A Gupta",
+      "A Bhatter",
+      "A Goyal",
+      "A Mathur",
+      "A Mohanty",
+      "et al."
+    ],
+    "venue": "Preprint",
+    "year": 2025,
+    "citationCount": 2,
+    "tags": ["multimodal-models", "technical-report", "amazon-nova"],
+    "summary": "ArXiv technical report describing the Amazon Nova family of models and model card details.",
+    "links": {
+      "scholar": "",
+      "pdf": "",
+      "arxiv": "https://arxiv.org/abs/2506.12103",
+      "code": ""
+    }
+  },
+  {
+    "title": "Amazon Nova Premier: Technical report and model card",
+    "authors": ["AAG Intelligence"],
+    "venue": "AAG Intelligence",
+    "year": 2025,
+    "citationCount": 1,
+    "tags": ["multimodal-models", "technical-report", "amazon-nova"],
+    "summary": "Technical report and model card for Amazon Nova Premier.",
+    "links": {
+      "scholar": "",
+      "pdf": "",
+      "arxiv": "",
+      "code": ""
+    }
+  },
+  {
+    "title": "Amazon Nova 2: Multimodal reasoning and generation models",
+    "authors": ["AAG Intelligence"],
+    "venue": "",
+    "year": 2025,
+    "citationCount": null,
+    "tags": ["multimodal-models", "reasoning", "generation"],
+    "summary": "Describes Amazon Nova 2 models for multimodal reasoning and generation.",
+    "links": {
+      "scholar": "",
+      "pdf": "",
+      "arxiv": "",
+      "code": ""
+    }
+  },
+  {
+    "title": "Amazon Nova Multimodal Embeddings: Technical report and model card",
+    "authors": ["AAG Intelligence"],
+    "venue": "",
+    "year": 2025,
+    "citationCount": null,
+    "tags": ["multimodal-embeddings", "technical-report", "amazon-nova"],
+    "summary": "Technical report and model card for Amazon Nova multimodal embeddings.",
+    "links": {
+      "scholar": "",
+      "pdf": "",
+      "arxiv": "",
+      "code": ""
+    }
+  },
+  {
+    "title": "Introducing Amazon Nova Act",
+    "authors": ["AGI Amazon"],
+    "venue": "Amazon AGI 31 (3)",
+    "year": 2025,
+    "citationCount": 2,
+    "tags": ["agents", "multimodal-models", "amazon-nova"],
+    "summary": "Introduces Amazon Nova Act and its capabilities in the Amazon AGI context.",
+    "links": {
+      "scholar": "",
+      "pdf": "",
+      "arxiv": "",
+      "code": ""
+    }
+  },
+  {
+    "title": "Platonic Grounding for Efficient Multimodal Language Models",
+    "authors": [
+      "M Choraria",
+      "X Wu",
+      "A Bhimaraju",
+      "N Sekhar",
+      "Y Wu",
+      "X Zhang",
+      "P Singhal",
+      "et al."
+    ],
+    "venue": "Preprint",
+    "year": 2025,
+    "citationCount": null,
+    "tags": ["multimodal-language-models", "grounding", "efficiency"],
+    "summary": "Proposes grounding strategies to improve efficiency in multimodal language models.",
+    "links": {
+      "scholar": "",
+      "pdf": "",
+      "arxiv": "https://arxiv.org/abs/2504.19327",
+      "code": ""
+    }
+  },
+  {
+    "title": "Topic and style-aware transformer for multimodal emotion recognition",
+    "authors": ["S Qiu", "N Sekhar", "P Singhal"],
+    "venue": "Findings of the Association for Computational Linguistics: ACL 2023",
+    "year": 2023,
+    "citationCount": 9,
+    "tags": ["emotion-recognition", "multimodal", "transformers"],
+    "summary": "Introduces a topic- and style-aware transformer for multimodal emotion recognition.",
+    "links": {
+      "scholar": "",
+      "pdf": "",
+      "arxiv": "",
+      "code": ""
+    }
+  },
+  {
+    "title": "Language grounded qformer for efficient vision language understanding",
+    "authors": [
+      "M Choraria",
+      "N Sekhar",
+      "Y Wu",
+      "X Zhang",
+      "P Singhal",
+      "LR Varshney"
+    ],
+    "venue": "Preprint",
+    "year": 2023,
+    "citationCount": 1,
+    "tags": ["vision-language", "qformer", "efficiency"],
+    "summary": "Presents a language-grounded QFormer for efficient vision-language understanding.",
+    "links": {
+      "scholar": "",
+      "pdf": "",
+      "arxiv": "https://arxiv.org/abs/2311.07449",
+      "code": ""
+    }
+  },
+  {
+    "title": "Semantically Grounded QFormer for Efficient Vision Language Understanding",
+    "authors": [
+      "M Choraria",
+      "X Wu",
+      "S Basu",
+      "N Sekhar",
+      "Y Wu",
+      "X Zhang",
+      "P Singhal",
+      "et al."
+    ],
+    "venue": "Preprint",
+    "year": 2023,
+    "citationCount": null,
+    "tags": ["vision-language", "qformer", "efficiency"],
+    "summary": "Semantically grounded QFormer approach for efficient vision-language understanding.",
+    "links": {
+      "scholar": "",
+      "pdf": "",
+      "arxiv": "https://arxiv.org/abs/2311.07449",
+      "code": ""
+    }
+  },
+  {
+    "title": "Avoiding spurious correlations via logit correction",
+    "authors": [
+      "S Liu",
+      "X Zhang",
+      "N Sekhar",
+      "Y Wu",
+      "P Singhal",
+      "C Fernandez-Granda"
+    ],
+    "venue": "Preprint",
+    "year": 2022,
+    "citationCount": 37,
+    "tags": ["robustness", "spurious-correlations", "representation-learning"],
+    "summary": "Proposes logit correction to reduce spurious-correlation reliance and improve robustness under distribution shift.",
+    "links": {
+      "scholar": "",
+      "pdf": "",
+      "arxiv": "https://arxiv.org/abs/2212.01433",
+      "code": ""
+    }
+  },
+  {
+    "title": "Octree representation improves data fidelity of cardiac CT images and convolutional neural network semantic segmentation of left atrial and ventricular chambers",
+    "authors": [
+      "K Gupta",
+      "N Sekhar",
+      "DM Vigneault",
+      "AR Scott",
+      "B Colvert",
+      "A Craine",
+      "et al."
+    ],
+    "venue": "Radiology: Artificial Intelligence 3 (6), e210036",
+    "year": 2021,
+    "citationCount": 10,
+    "tags": ["medical-imaging", "octree", "segmentation"],
+    "summary": "Shows that octree representation improves cardiac CT fidelity and segmentation quality for left atrial and ventricular chambers.",
+    "links": {
+      "scholar": "",
+      "pdf": "",
+      "arxiv": "",
+      "code": ""
+    }
+  },
+  {
+    "title": "Multi-user, scalable 3d object detection in ar cloud",
+    "authors": ["S Choudhary", "N Sekhar", "S Mahendran", "P Singhal"],
+    "venue": "CVPR Workshop on Computer Vision for Augmented and Virtual Reality, Seattle, WA",
+    "year": 2020,
+    "citationCount": 4,
+    "tags": ["3d-vision", "augmented-reality", "object-detection"],
+    "summary": "Presents a scalable multi-user 3D object detection pipeline for AR cloud systems.",
+    "links": {
+      "scholar": "",
+      "pdf": "",
+      "arxiv": "",
+      "code": ""
+    }
+  },
+  {
+    "title": "Listening Style-Aware Dyadic Facial Motion Generation.",
+    "authors": [
+      "G Datta",
+      "B Huang",
+      "N Sekhar",
+      "V Yadav",
+      "SY Lin",
+      "A Jaiswal",
+      "P Singhal"
+    ],
+    "venue": "STRL@ IJCAI",
+    "year": 2023,
+    "citationCount": null,
+    "tags": ["multimodal", "facial-motion", "style-aware-generation"],
+    "summary": "Generates dyadic facial motion with listening-style awareness.",
+    "links": {
+      "scholar": "",
+      "pdf": "",
+      "arxiv": "",
+      "code": ""
+    }
+  },
+  {
+    "title": "Drift in online social media",
+    "authors": [
+      "A Mullick",
+      "A Bhandari",
+      "A Niranjan",
+      "N Sckhar",
+      "S Garg",
+      "R Bubna",
+      "M Roy"
+    ],
+    "venue": "2018 IEEE 9th Annual Information Technology, Electronics and Mobile Communication Conference",
+    "year": 2018,
+    "citationCount": 7,
+    "tags": ["social-media", "distribution-shift", "drift"],
+    "summary": "Studies drift dynamics in online social-media data.",
+    "links": {
+      "scholar": "",
+      "pdf": "",
+      "arxiv": "",
+      "code": ""
+    }
+  }
+]

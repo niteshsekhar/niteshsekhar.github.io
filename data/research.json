@@ -1,0 +1,59 @@
+[
+  {
+    "slug": "3d-perception-ar-systems",
+    "title": "3D Perception & AR Systems",
+    "description": "My research in 3D perception focuses on scalable object understanding for AR and cross-reality systems under real-world constraints. This includes robust geometric reasoning, object localization, and system-level deployment considerations for multi-user environments.",
+    "keyIdeas": [
+      "Scalable 3D object detection for shared AR cloud experiences",
+      "Amodal and geometry-aware perception for object-centric reasoning",
+      "Production-oriented vision pipelines for reliability in deployment"
+    ],
+    "representativePublications": [
+      "Multi-user, scalable 3D object detection in AR cloud (CVPR Workshop on Computer Vision for Augmented and Virtual Reality, 2020)",
+      "Scalable three-dimensional object recognition in a cross reality system (US Patent 11,704,806, 2023)",
+      "Object recognition neural network for amodal center prediction (US Patent 11,989,900, 2024)"
+    ],
+    "systemsImpact": [
+      "Advanced shared AR object understanding for cross-reality scenarios",
+      "Improved perception robustness for deployment-facing 3D systems"
+    ]
+  },
+  {
+    "slug": "multimodal-foundation-models",
+    "title": "Multimodal Foundation Models",
+    "description": "My current work centers on multimodal foundation models, with emphasis on efficient vision-language learning and robust representation quality. I focus on methods that improve transfer, training efficiency, and practical usability in large-scale product systems.",
+    "keyIdeas": [
+      "Large-scale multimodal pretraining and model-card-driven evaluation",
+      "Efficient vision-language understanding via grounded QFormer designs",
+      "Robustness improvements against spurious correlations"
+    ],
+    "representativePublications": [
+      "The Amazon Nova Family of Models: Technical Report and Model Card (arXiv:2506.12103, 2025)",
+      "Platonic Grounding for Efficient Multimodal Language Models (arXiv:2504.19327, 2025)",
+      "Avoiding spurious correlations via logit correction (arXiv:2212.01433, 2022)"
+    ],
+    "systemsImpact": [
+      "Contributed to multimodal model quality and capability improvements in Amazon Nova workstreams",
+      "Improved efficiency and robustness characteristics of deployed multimodal learning pipelines"
+    ]
+  },
+  {
+    "slug": "ai-in-imaging-and-multimodal-interaction",
+    "title": "AI in Imaging & Multimodal Interaction",
+    "description": "I have also worked on medically grounded 3D imaging representations and multimodal human-centered modeling. This line of work combines data fidelity, semantic understanding, and behavior-aware modeling for perception-heavy applications.",
+    "keyIdeas": [
+      "Efficient octree representations for high-fidelity 3D medical imaging",
+      "Multimodal transformers for emotion-aware understanding",
+      "Style-aware motion generation for interactive multimodal systems"
+    ],
+    "representativePublications": [
+      "Octree representation improves data fidelity of cardiac CT images and CNN segmentation (Radiology: Artificial Intelligence, 2021)",
+      "Topic and style-aware transformer for multimodal emotion recognition (Findings of ACL, 2023)",
+      "Listening Style-Aware Dyadic Facial Motion Generation (STRL@IJCAI, 2023)"
+    ],
+    "systemsImpact": [
+      "Improved segmentation fidelity in 3D cardiac imaging tasks",
+      "Expanded multimodal interaction modeling for expressive and behavior-aware AI"
+    ]
+  }
+]

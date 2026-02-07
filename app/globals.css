@@ -1,0 +1,65 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+.dark {
+  color-scheme: dark;
+}
+
+body {
+  @apply bg-zinc-50 text-zinc-900 antialiased dark:bg-zinc-950 dark:text-zinc-100;
+  text-rendering: optimizeLegibility;
+  font-feature-settings: "kern", "liga", "clig", "calt";
+}
+
+.section-shell {
+  @apply mx-auto w-full max-w-6xl px-5 sm:px-8 lg:px-10;
+}
+
+p {
+  @apply leading-8;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  @apply leading-tight;
+}
+
+:focus-visible {
+  @apply outline-none ring-2 ring-brand-600 ring-offset-2 ring-offset-zinc-50 dark:ring-brand-100 dark:ring-offset-zinc-950;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  @keyframes fadeUp {
+    from {
+      opacity: 0;
+      transform: translateY(6px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  .fade-up {
+    animation: fadeUp 400ms ease-out both;
+  }
+
+  .fade-up-delay-1 {
+    animation-delay: 70ms;
+  }
+
+  .fade-up-delay-2 {
+    animation-delay: 140ms;
+  }
+
+  .fade-up-delay-3 {
+    animation-delay: 210ms;
+  }
+}
